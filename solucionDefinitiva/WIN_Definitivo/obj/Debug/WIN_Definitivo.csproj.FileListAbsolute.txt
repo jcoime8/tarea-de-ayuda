@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\bin\Debug\WIN_Definitivo.exe.config
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\bin\Debug\WIN_Definitivo.exe
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\bin\Debug\WIN_Definitivo.pdb
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\bin\Debug\BLL_Definitivo.dll
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\bin\Debug\BLL_Definitivo.pdb
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\obj\Debug\WIN_Definitivo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\obj\Debug\WIN_Definitivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\obj\Debug\WIN_Definitivo.Form1.resources
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\obj\Debug\WIN_Definitivo.Properties.Resources.resources
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\obj\Debug\WIN_Definitivo.csproj.GenerateResource.cache
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\obj\Debug\WIN_Definitivo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\obj\Debug\WIN_Definitivo.csproj.CopyComplete
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\obj\Debug\WIN_Definitivo.exe
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\obj\Debug\WIN_Definitivo.pdb
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\obj\Debug\WIN_Definitivo.MDIParent1.resources
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\obj\Debug\WIN_Definitivo.Frm_OMB.resources
+C:\Users\User\Desktop\practica\solucionDefinitiva\WIN_Definitivo\obj\Debug\WIN_Definitivo.FrmSF.resources

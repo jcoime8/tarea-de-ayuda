@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\practica\solucionDefinitiva\BLL_Definitivo\bin\Debug\BLL_Definitivo.dll
+C:\Users\User\Desktop\practica\solucionDefinitiva\BLL_Definitivo\bin\Debug\BLL_Definitivo.pdb
+C:\Users\User\Desktop\practica\solucionDefinitiva\BLL_Definitivo\obj\Debug\BLL_Definitivo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\practica\solucionDefinitiva\BLL_Definitivo\obj\Debug\BLL_Definitivo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practica\solucionDefinitiva\BLL_Definitivo\obj\Debug\BLL_Definitivo.dll
+C:\Users\User\Desktop\practica\solucionDefinitiva\BLL_Definitivo\obj\Debug\BLL_Definitivo.pdb
