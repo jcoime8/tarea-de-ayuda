@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\practica\aki\BLL_aki\bin\Debug\BLL_aki.dll
+C:\Users\User\Desktop\practica\aki\BLL_aki\bin\Debug\BLL_aki.pdb
+C:\Users\User\Desktop\practica\aki\BLL_aki\obj\Debug\BLL_aki.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\practica\aki\BLL_aki\obj\Debug\BLL_aki.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practica\aki\BLL_aki\obj\Debug\BLL_aki.dll
+C:\Users\User\Desktop\practica\aki\BLL_aki\obj\Debug\BLL_aki.pdb

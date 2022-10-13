@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\practica\aki\win.arto\bin\Debug\win.arto.exe.config
+C:\Users\User\Desktop\practica\aki\win.arto\bin\Debug\win.arto.exe
+C:\Users\User\Desktop\practica\aki\win.arto\bin\Debug\win.arto.pdb
+C:\Users\User\Desktop\practica\aki\win.arto\bin\Debug\BLL_aki.dll
+C:\Users\User\Desktop\practica\aki\win.arto\bin\Debug\BLL_aki.pdb
+C:\Users\User\Desktop\practica\aki\win.arto\obj\Debug\win.arto.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\practica\aki\win.arto\obj\Debug\win.arto.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\practica\aki\win.arto\obj\Debug\win.arto.Properties.Resources.resources
+C:\Users\User\Desktop\practica\aki\win.arto\obj\Debug\win.arto.csproj.GenerateResource.cache
+C:\Users\User\Desktop\practica\aki\win.arto\obj\Debug\win.arto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practica\aki\win.arto\obj\Debug\win.arto.csproj.CopyComplete
+C:\Users\User\Desktop\practica\aki\win.arto\obj\Debug\win.arto.exe
+C:\Users\User\Desktop\practica\aki\win.arto\obj\Debug\win.arto.pdb
+C:\Users\User\Desktop\practica\aki\win.arto\obj\Debug\win.arto.FrmOMB.resources
+C:\Users\User\Desktop\practica\aki\win.arto\obj\Debug\win.arto.Serie.resources
+C:\Users\User\Desktop\practica\aki\win.arto\obj\Debug\win.arto.FrmLogin.resources
+C:\Users\User\Desktop\practica\aki\win.arto\obj\Debug\win.arto.MDIPresentacion.resources
